@@ -1,0 +1,49 @@
+[
+    {
+        "id":1,
+        "name":"story book",
+        "title":"All real life mysterious stories.",
+        "price":0,
+        "category":"free",
+        "image":"https://img.freepik.com/free-vector/modern-school-education-knowledge-concept_3446-665.jpg?t=st=1740479922~exp=1740483522~hmac=0fb0c1fe87bf0b160fe8b099efc6537ace953054915fb06d84bb46c0b093051c&w=740"
+    },
+
+    {
+        "id":2,
+        "name":"javabook",
+        "title":"All real life mysterious stories.",
+        "price":20,
+        "category":"Entertainment",
+        "image":"https://img.freepik.com/free-vector/modern-school-education-knowledge-concept_3446-665.jpg?t=st=1740479922~exp=1740483522~hmac=0fb0c1fe87bf0b160fe8b099efc6537ace953054915fb06d84bb46c0b093051c&w=740"
+    },
+
+    {
+        "id":3,
+        "name":"samplesQ",
+        "title":"All real life mysterious stories.",
+        "price":0,
+        "category":"free",
+        "image":"https://img.freepik.com/free-vector/modern-school-education-knowledge-concept_3446-665.jpg?t=st=1740479922~exp=1740483522~hmac=0fb0c1fe87bf0b160fe8b099efc6537ace953054915fb06d84bb46c0b093051c&w=740"
+    },
+    {
+        "id":4,
+        "name":"PYQ Papers",
+        "title":"All real life mysterious stories.",
+        "price":0,
+        "category":"free",
+        "image":"https://img.freepik.com/free-vector/modern-school-education-knowledge-concept_3446-665.jpg?t=st=1740479922~exp=1740483522~hmac=0fb0c1fe87bf0b160fe8b099efc6537ace953054915fb06d84bb46c0b093051c&w=740"
+    },
+    {
+        "id":5,
+        "name":"assignments",
+        "title":"All real life mysterious stories.",
+        "price":0,
+        "category":"free",
+        "image":"https://img.freepik.com/free-vector/modern-school-education-knowledge-concept_3446-665.jpg?t=st=1740479922~exp=1740483522~hmac=0fb0c1fe87bf0b160fe8b099efc6537ace953054915fb06d84bb46c0b093051c&w=740"
+    }
+    
+
+
+
+
+]
